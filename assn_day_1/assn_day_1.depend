@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1632058635 source:e:\b\new folder\assn_day_1\day_1.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	"day_1.h"
+
+1632058082 e:\b\new folder\assn_day_1\day_1.h
+
+1632057507 source:e:\b\new folder\assn_day_1\main.c
+	<assert.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	"day_1.h"
+
